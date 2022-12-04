@@ -18,8 +18,6 @@ Generating the bounding boxes for detected objects
 ## Detections
 Encode given cropped image
 
-<img src="https://www.researchgate.net/publication/340049443/figure/fig1/AS:871000245825537@1584674049818/Traffic-detection-from-a-dash-cam-feed-using-the-YOLO-v3-deep-neural-object-detection.ppm" alt="cropped-cars">
-
 
 ## Kalman Filter
 Used to generate predictions of objects' future locations
