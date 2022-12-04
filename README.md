@@ -8,25 +8,25 @@ Algorithm for Object Tracking
 - [YOlOv3 Article](https://machinelearningmastery.com/how-to-perform-object-detection-with-yolov3-in-keras/)
 
 # Deep SORT
-# YOLOv3 Network
+## YOLOv3 Network
 Generating the bounding boxes for detected objects
 
 
-# Detections
+## Detections
 Encode given cropped image
 
 
-# Kalman Filter
+## Kalman Filter
 Used to generate predictions of objects' future locations
 
-# IoU Matching
+## IoU Matching
 Solve linear assignment problem as well as cascade matching
 
-# Nearest Neighbor Matching
+## Nearest Neighbor Matching
 Solves cosine distance and Eucladian distance for Deep Appearance Descriptor as well as Kalman filter
 
-# Tracking
+## Tracking
 Combines modules to create final object
 
-# Object Tracking
+## Object Tracking
 Complete and run algorithm in a loop for each video. 
