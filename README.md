@@ -6,12 +6,14 @@ Algorithm for Object Tracking
 - [People Tracking Article](https://towardsdatascience.com/people-tracking-using-deep-learning-5c90d43774be#:~:text=Deep%20Sort%20Algorithm,-I%20love%20the&text=We%20track%20based%20on%20not,factor%20into%20the%20tracking%20logic)
 - [Deep SORT Github Repo](https://github.com/nwojke/deep_sort)
 - [YOlOv3 Article](https://machinelearningmastery.com/how-to-perform-object-detection-with-yolov3-in-keras/)
+- [Road Segmentation](https://www.kaggle.com/datasets/sakshaymahna/kittiroadsegmentation?resource=download)
+
 
 # Deep SORT
 ## YOLOv3 Network
 Generating the bounding boxes for detected objects
 
-
+<img src="https://viso.ai/wp-content/uploads/2021/02/YOLOv3-how-it-works.jpg" alt="yolo3image">
 ## Detections
 Encode given cropped image
 
