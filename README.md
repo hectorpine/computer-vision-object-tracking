@@ -7,7 +7,7 @@ Algorithm for Object Tracking
 - [Deep SORT Github Repo](https://github.com/nwojke/deep_sort)
 - [YOlOv3 Article](https://machinelearningmastery.com/how-to-perform-object-detection-with-yolov3-in-keras/)
 - [Road Segmentation](https://www.kaggle.com/datasets/sakshaymahna/kittiroadsegmentation?resource=download)
-
+- [Computer Vision and Perception For Self Driving Cars](https://www.youtube.com/watch?v=cPOtULagNnI&t=3150s)
 
 # Deep SORT Implementation Overview
 ## YOLOv3 Network
